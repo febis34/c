@@ -1,3 +1,5 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/febis-canal-style">
+
 # Linguagem C
 ## Primeiros passos com a linguagem C
 
